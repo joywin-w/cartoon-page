@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+body{
+font-family: 'Russo One', sans-serif;
+text-align: center;
+}
+
+nav{
+display: flex;
+justify-content: center;
+}
+
+a{
+margin: 20px;
+cursor: pointer;
+text-decoration: none;
+color: black;
+}
+
+header{
+    background: url("https://i1.faceprep.in/cartoon-background.png");
+    background-repeat: no-repeat;
+    color: white;
+    background-size: cover;
+    padding: 200px;
+    }
+    
+    h1{
+    font-size: 6em;
+    letter-spacing: 10px;
+    }
+    
+    h2{
+    font-size: 4em;
+    }
+    
+    h3{
+    font-size: 2em;
+    }
+   
+    h4{
+        font-size: 1.5em;
+        font-weight: 400;
+        }
+        
+        section p, img{
+        padding: 10px;
+        }
+        
+        .cartoons{
+        color: white;
+        padding: 70px;
+        }
+        
+        #tomjerry{
+        background-color: tomato;
+        }
+        
+        #shinchan{
+        background-color: rgb(255, 217, 0);
+        }
+        
+        #pokemon{
+        background-color: rgb(0, 132, 255);
+        }
+        
+        img{
+        border: 5px solid white;
+        }
+        
+        p{
+        font-style: italic;
+        margin: 0 20vw;
+        }
+        
+        
+    
